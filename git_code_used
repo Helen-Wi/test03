@@ -2,4 +2,5 @@ git config --global user.name "Helen-Wi"
 git config --global user.email stevenlj@stu.xjtu.edu.cn
 git commit -m "first"
 git log
-git remote add origin https://github.com/Helen-Wi/test03
+git remote add temp https://github.com/Helen-Wi/test03
+git push -u temp temp
